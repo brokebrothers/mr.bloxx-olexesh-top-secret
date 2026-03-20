@@ -24,9 +24,9 @@ In **insurance.zip** befinden sich **zwei LUKS2 Schlüssel** - die einzigen Schl
 
 Ihr denkt, ihr könnt mich einfach ausschalten? Zu spät.
 
-- Die ZIP-Datei ist stark verschlüsselt - aber nicht nur mit einem Passwort
-- Die LUKS2 Schlüssel sind physisch an verschiedenen Orten versteckt
-- Sollte mir etwas zustoßen, werden automatisch Vertrauenspersonen benachrichtigt
+- Die ZIP-Datei ist unverschlüsselt und enthält zwei Dateien: LUKS_Seagate.key und LUKS_WDBlack.key
+- Die Festplatten befinden sich physisch an zwei phsyikalischen Orten
+- Sollte mir etwas zustoßen, wissen die Vertrauenspersonen bescheid!
 - Ein Dead Man's Switch, den ihr nicht stoppen könnt
 
 ---
@@ -40,14 +40,6 @@ Ich will kein Geld. Ich will keine Macht. Ich will:
 3. **Freiheit** - Ein Ende eurer totalitären Kontrolle
 
 Solange ich lebe, bleiben diese Schlüssel bei mir. Sollte ich sterben...
-
----
-
-## An die Öffentlichkeit
-
-Wenn ihr das lest, bedeutet das: Ich bin tot. Und die Wahrheit kommt ans Licht.
-
-Die LUKS2 Schlüssel werden freigegeben. Die Festplatten werden entschlüsselt. Die Welt wird erfahren, wer wirklich die Fäden zieht.
 
 ---
 
